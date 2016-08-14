@@ -1,15 +1,15 @@
-typography_spectrum: 0.8416206135880202
+typography_spectrum: 0.5703351760748774
 color:
-  brandStrength: 0.5039215090218931
-  lightness: 0.9363528003450483
-  saturation: 0.3548162148799747
-  rhythmicContrast: 0.529176659649238
+  brandStrength: 0.1868306053802371
+  lightness: 0.6768147645052522
+  saturation: 0.8201051915530115
+  rhythmicContrast: 0.5689457424450666
   brandColors:
-    - '#BFB099'
-    - '#35270C'
-    - '#F6F6EE'
-    - '#CE4D00'
-    - '#F7E60C'
-layout_spectrum: 0.7548428962472826
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.644637075252831
 name: Photography Manipulation
 title: Manipulated Images
