@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Manipulated Images]]></title>
         <description><![CDATA[Manipulated Images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography-manipulation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Aug 2016 03:48:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Aug 2016 07:27:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography-manipulation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f9c7ad9-872c-4a4f-bf10-28f54637f584.jpg">]]></description>
+            <link>https://thegrid.ai/photography-manipulation/b8141769-ea81-4160-ac25-f27b526b7dc8/index.html</link>
+            <guid isPermaLink="false">b8141769-ea81-4160-ac25-f27b526b7dc8</guid>
+            <pubDate>Sun, 14 Aug 2016 07:27:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5853b0b1-06e5-4ac8-9c68-fc7f43aba3d8.jpg" alt="Driving in the Rain">]]></description>
-            <link>undefineddriving-in-the-rain/index.html</link>
+            <link>https://thegrid.ai/photography-manipulation/driving-in-the-rain/index.html</link>
             <guid isPermaLink="false">bea882ee-48f6-431a-a71c-50e03e418f32</guid>
             <pubDate>Sun, 14 Aug 2016 03:48:47 GMT</pubDate>
         </item>
