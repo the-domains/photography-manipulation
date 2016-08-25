@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-25T00:13:39.052Z'
+datePublished: '2016-08-25T00:13:57.020Z'
 author: []
 via: {}
-dateModified: '2016-08-14T11:49:23.516Z'
+dateModified: '2016-08-25T00:13:56.286Z'
 title: Stormy Images
 publisher: {}
 description: Storm
 sourcePath: _posts/2016-08-14-stormy-images.md
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: stormy-images/index.html
 _context: 'http://schema.org'
 _type: Article
