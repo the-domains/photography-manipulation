@@ -16,4 +16,7 @@ navigation:
   - name: RAIN
     id: 00e5fe39-23f2-4a2a-ba77-f7c35124206c
     type: content
+  - name: Stormy Images
+    id: 744f749c-24a7-4762-86b2-d3e36f75d7b4
+    type: content
 title: Manipulated Images
