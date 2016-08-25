@@ -12,4 +12,8 @@ color:
     - '#002F2F'
 layout_spectrum: 0.644637075252831
 name: Photography Manipulation
+navigation:
+  - name: RAIN
+    id: 00e5fe39-23f2-4a2a-ba77-f7c35124206c
+    type: content
 title: Manipulated Images
